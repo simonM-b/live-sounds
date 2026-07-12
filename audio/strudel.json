@@ -1,11 +1,1 @@
-{"hannah":["/hannah.mp3"]}
-
-{
-  "glados": [
-    "/GLaDOS_chellgladoswakeup01.wav",
-    "/GLaDOS_testchambermisc34.wav",
-    "/GLaDOS_faithplategarbage06.wav",
-    "/GLaDOS_sp_incinerator_01_04.wav",
-    "/GLaDOS_sp_incinerator_01_03.wav"
-  ]
-}
+{"audio":["/GLaDOS_chellgladoswakeup01.wav","/GLaDOS_faithplategarbage06.wav","/GLaDOS_sp_incinerator_01_03.wav","/GLaDOS_sp_incinerator_01_04.wav","/GLaDOS_testchambermisc34.wav","/hannah.mp3"]}
